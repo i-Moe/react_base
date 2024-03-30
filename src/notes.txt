@@ -1,0 +1,35 @@
+react_base/
+│
+├── node_modules/
+│
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── HeroSection.js
+│   │   ├── Content.js
+│   │   └── Footer.js
+│   │
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── About.js
+│   │   └── FAQ.js
+│   │
+│   ├── images/            (Folder for storing images)
+│   │   ├── image1.jpg     (Example image file)
+│   │   ├── image2.png
+│   │   └── ...
+│   │
+│   ├── theme.js           (Custom Chakra UI theme file)
+│   ├── App.js
+│   ├── index.js
+│   ├── index.css
+│   └── notes.txt
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
